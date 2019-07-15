@@ -17,5 +17,4 @@ It contains only a Webview that loads the URL https://andela.com/alc/ which is t
 Activity C is my profile.
 It contains an ImageView which should display my photo, TextViews showing my name, Track, Country, Email and Phone Number.
 
-![Screenshot_1563189793](https://user-images.githubusercontent.com/17588391/61216511-3150aa80-a716-11e9-857f-7f0777c808fa.png)
-
+![Screenshot_1563194956](https://user-images.githubusercontent.com/17588391/61217503-7fff4400-a718-11e9-96fa-7050f3873f0a.png)
