@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4.0</string>
+    <string name="slack_username">Slack Username: Boniface Maina</string>
+    <string name="name">Boniface K. Maina</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Kenya</string>
+    <string name="email">Email: karisbm@gmail.com</string>
+    <string name="number">Number: +254 718842356</string>
+</resources>
